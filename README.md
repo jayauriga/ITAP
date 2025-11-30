@@ -1,6 +1,4 @@
 # ITAP-COSC-3411-Eta
-Interactive Command Tutor
-
 Interactive Command Tutor — ETA Team
 
 Overview:
@@ -33,9 +31,17 @@ Features:
 
 Main Menu Options
 
-  •	1 — Start a random quiz (10 questions)
+	•	1 — Start a random quiz (10 questions)
 	•	2 — Study mode (view commands by topic)
 	•	3 — Exit the program
+
+How to Use
+
+	•	Type your answers for the quiz questions
+	•	Study mode displays commands and expected answers by topic
+	•	After finishing a quiz, your score and recommendations for revision are displayed
+
+
 
 How to Use
 
