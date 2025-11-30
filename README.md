@@ -35,8 +35,12 @@ Main Menu Options
 	•	2 — Study mode (view commands by topic)
 	•	3 — Exit the program
 
-How to Use
-
-	•	Type your answers for the quiz questions
-	•	Study mode displays commands and expected answers by topic
-	•	After finishing a quiz, your score and recommendations for revision are displayed
+Usage Example
+	1.	Run ./command_tutor.py
+	2.	Choose 1 to start a quiz
+	3.	Type answers for each question
+	4.	After finishing, the tool shows:
+	•	Your total score
+	•	Weak and strong topics
+	•	Personalized study recommendations
+	5.	Choose 2 to view all commands grouped by topic
